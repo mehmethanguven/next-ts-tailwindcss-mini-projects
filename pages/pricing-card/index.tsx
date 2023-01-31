@@ -1,6 +1,6 @@
 import Card from '@/components/Card'
 import { IPrice } from '@/types/IPrice'
-import { PriceItem } from './PriceItem'
+import { PriceItem } from '../../components/PriceItem'
 
 const prices: IPrice[] = [
   {
