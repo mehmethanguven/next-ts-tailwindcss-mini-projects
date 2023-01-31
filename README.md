@@ -6,7 +6,7 @@ This is a Next.js Tailwindcss Mini Projects (Next.js - Typescript - Jest - Cypre
 
 ## Live on Vercel
 
-<a href="https://next-ts-tailwind-sandbox.vercel.app/" target="_blank">Live Preview</a>
+<a href="https://next-ts-tailwindcss-mini-projects.vercel.app/" target="_blank">Live Preview</a>
 
 ## Getting Started
 
