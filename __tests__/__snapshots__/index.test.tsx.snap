@@ -1,0 +1,363 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Home should to match snapshot 1`] = `
+<DocumentFragment>
+  <div
+    class="bg-gray-50 dark:bg-slate-900"
+  >
+    <div
+      class="container h-full p-6 mx-auto dark:bg-slate-900"
+    >
+      <div
+        class="container flex flex-col rounded-lg bg-white p-4 shadow-lg dark:bg-slate-900 dark:shadow-gray-200 md:mx-auto md:my-4"
+      >
+        <div
+          class="flex items-center justify-between gap-2 mb-4 bg-white dark:bg-slate-900"
+        >
+          <div
+            class="flex items-center gap-2"
+          >
+            <h1
+              class="text-xl font-bold capitalize text-blue-500 text-3xl text-center mt-4 dark:text-white dark:bg-slate-900"
+            >
+              Tailwind CSS Sandbox
+            </h1>
+          </div>
+        </div>
+        <div
+          class="bg-white dark:bg-slate-900"
+        >
+          <div
+            class="grid grid-cols-1 gap-5 mt-4 dark:bg-slate-900 md:grid-cols-3"
+          >
+            <div
+              class="container flex flex-col rounded-lg bg-white p-4 shadow-lg dark:bg-slate-900 dark:shadow-gray-200 md:mx-auto md:my-4 dark:bg-slate-900"
+            >
+              <div
+                class="bg-white dark:bg-slate-900 dark:bg-slate-900"
+              >
+                <a
+                  class="text-blue-500 hover:text-blue-300 dark:text-white"
+                  href="fundamentals/alert"
+                >
+                  <h2
+                    class="p-2 font-semibold capitalize"
+                  >
+                    utility first example
+                  </h2>
+                </a>
+              </div>
+            </div>
+            <div
+              class="container flex flex-col rounded-lg bg-white p-4 shadow-lg dark:bg-slate-900 dark:shadow-gray-200 md:mx-auto md:my-4 dark:bg-slate-900"
+            >
+              <div
+                class="bg-white dark:bg-slate-900 dark:bg-slate-900"
+              >
+                <a
+                  class="text-blue-500 hover:text-blue-300 dark:text-white"
+                  href="fundamentals/colors"
+                >
+                  <h2
+                    class="p-2 font-semibold capitalize"
+                  >
+                    colors
+                  </h2>
+                </a>
+              </div>
+            </div>
+            <div
+              class="container flex flex-col rounded-lg bg-white p-4 shadow-lg dark:bg-slate-900 dark:shadow-gray-200 md:mx-auto md:my-4 dark:bg-slate-900"
+            >
+              <div
+                class="bg-white dark:bg-slate-900 dark:bg-slate-900"
+              >
+                <a
+                  class="text-blue-500 hover:text-blue-300 dark:text-white"
+                  href="fundamentals/container-spacing"
+                >
+                  <h2
+                    class="p-2 font-semibold capitalize"
+                  >
+                    container & spacing
+                  </h2>
+                </a>
+              </div>
+            </div>
+            <div
+              class="container flex flex-col rounded-lg bg-white p-4 shadow-lg dark:bg-slate-900 dark:shadow-gray-200 md:mx-auto md:my-4 dark:bg-slate-900"
+            >
+              <div
+                class="bg-white dark:bg-slate-900 dark:bg-slate-900"
+              >
+                <a
+                  class="text-blue-500 hover:text-blue-300 dark:text-white"
+                  href="fundamentals/typography"
+                >
+                  <h2
+                    class="p-2 font-semibold capitalize"
+                  >
+                    typography
+                  </h2>
+                </a>
+              </div>
+            </div>
+            <div
+              class="container flex flex-col rounded-lg bg-white p-4 shadow-lg dark:bg-slate-900 dark:shadow-gray-200 md:mx-auto md:my-4 dark:bg-slate-900"
+            >
+              <div
+                class="bg-white dark:bg-slate-900 dark:bg-slate-900"
+              >
+                <a
+                  class="text-blue-500 hover:text-blue-300 dark:text-white"
+                  href="fundamentals/sizing"
+                >
+                  <h2
+                    class="p-2 font-semibold capitalize"
+                  >
+                    sizing
+                  </h2>
+                </a>
+              </div>
+            </div>
+            <div
+              class="container flex flex-col rounded-lg bg-white p-4 shadow-lg dark:bg-slate-900 dark:shadow-gray-200 md:mx-auto md:my-4 dark:bg-slate-900"
+            >
+              <div
+                class="bg-white dark:bg-slate-900 dark:bg-slate-900"
+              >
+                <a
+                  class="text-blue-500 hover:text-blue-300 dark:text-white"
+                  href="fundamentals/layout-position"
+                >
+                  <h2
+                    class="p-2 font-semibold capitalize"
+                  >
+                    layout & position
+                  </h2>
+                </a>
+              </div>
+            </div>
+            <div
+              class="container flex flex-col rounded-lg bg-white p-4 shadow-lg dark:bg-slate-900 dark:shadow-gray-200 md:mx-auto md:my-4 dark:bg-slate-900"
+            >
+              <div
+                class="bg-white dark:bg-slate-900 dark:bg-slate-900"
+              >
+                <a
+                  class="text-blue-500 hover:text-blue-300 dark:text-white"
+                  href="fundamentals/backgrounds-shadows"
+                >
+                  <h2
+                    class="p-2 font-semibold capitalize"
+                  >
+                    backgrounds & shadows
+                  </h2>
+                </a>
+              </div>
+            </div>
+            <div
+              class="container flex flex-col rounded-lg bg-white p-4 shadow-lg dark:bg-slate-900 dark:shadow-gray-200 md:mx-auto md:my-4 dark:bg-slate-900"
+            >
+              <div
+                class="bg-white dark:bg-slate-900 dark:bg-slate-900"
+              >
+                <a
+                  class="text-blue-500 hover:text-blue-300 dark:text-white"
+                  href="fundamentals/borders"
+                >
+                  <h2
+                    class="p-2 font-semibold capitalize"
+                  >
+                    borders & border radius
+                  </h2>
+                </a>
+              </div>
+            </div>
+            <div
+              class="container flex flex-col rounded-lg bg-white p-4 shadow-lg dark:bg-slate-900 dark:shadow-gray-200 md:mx-auto md:my-4 dark:bg-slate-900"
+            >
+              <div
+                class="bg-white dark:bg-slate-900 dark:bg-slate-900"
+              >
+                <a
+                  class="text-blue-500 hover:text-blue-300 dark:text-white"
+                  href="fundamentals/filters"
+                >
+                  <h2
+                    class="p-2 font-semibold capitalize"
+                  >
+                    filters
+                  </h2>
+                </a>
+              </div>
+            </div>
+            <div
+              class="container flex flex-col rounded-lg bg-white p-4 shadow-lg dark:bg-slate-900 dark:shadow-gray-200 md:mx-auto md:my-4 dark:bg-slate-900"
+            >
+              <div
+                class="bg-white dark:bg-slate-900 dark:bg-slate-900"
+              >
+                <a
+                  class="text-blue-500 hover:text-blue-300 dark:text-white"
+                  href="fundamentals/interactivity"
+                >
+                  <h2
+                    class="p-2 font-semibold capitalize"
+                  >
+                    interactivity
+                  </h2>
+                </a>
+              </div>
+            </div>
+            <div
+              class="container flex flex-col rounded-lg bg-white p-4 shadow-lg dark:bg-slate-900 dark:shadow-gray-200 md:mx-auto md:my-4 dark:bg-slate-900"
+            >
+              <div
+                class="bg-white dark:bg-slate-900 dark:bg-slate-900"
+              >
+                <a
+                  class="text-blue-500 hover:text-blue-300 dark:text-white"
+                  href="fundamentals/breakpoints"
+                >
+                  <h2
+                    class="p-2 font-semibold capitalize"
+                  >
+                    breakpoints
+                  </h2>
+                </a>
+              </div>
+            </div>
+            <div
+              class="container flex flex-col rounded-lg bg-white p-4 shadow-lg dark:bg-slate-900 dark:shadow-gray-200 md:mx-auto md:my-4 dark:bg-slate-900"
+            >
+              <div
+                class="bg-white dark:bg-slate-900 dark:bg-slate-900"
+              >
+                <a
+                  class="text-blue-500 hover:text-blue-300 dark:text-white"
+                  href="fundamentals/columns"
+                >
+                  <h2
+                    class="p-2 font-semibold capitalize"
+                  >
+                    column layouts
+                  </h2>
+                </a>
+              </div>
+            </div>
+            <div
+              class="container flex flex-col rounded-lg bg-white p-4 shadow-lg dark:bg-slate-900 dark:shadow-gray-200 md:mx-auto md:my-4 dark:bg-slate-900"
+            >
+              <div
+                class="bg-white dark:bg-slate-900 dark:bg-slate-900"
+              >
+                <a
+                  class="text-blue-500 hover:text-blue-300 dark:text-white"
+                  href="fundamentals/flexbox"
+                >
+                  <h2
+                    class="p-2 font-semibold capitalize"
+                  >
+                    flexbox
+                  </h2>
+                </a>
+              </div>
+            </div>
+            <div
+              class="container flex flex-col rounded-lg bg-white p-4 shadow-lg dark:bg-slate-900 dark:shadow-gray-200 md:mx-auto md:my-4 dark:bg-slate-900"
+            >
+              <div
+                class="bg-white dark:bg-slate-900 dark:bg-slate-900"
+              >
+                <a
+                  class="text-blue-500 hover:text-blue-300 dark:text-white"
+                  href="fundamentals/grid"
+                >
+                  <h2
+                    class="p-2 font-semibold capitalize"
+                  >
+                    grid
+                  </h2>
+                </a>
+              </div>
+            </div>
+            <div
+              class="container flex flex-col rounded-lg bg-white p-4 shadow-lg dark:bg-slate-900 dark:shadow-gray-200 md:mx-auto md:my-4 dark:bg-slate-900"
+            >
+              <div
+                class="bg-white dark:bg-slate-900 dark:bg-slate-900"
+              >
+                <a
+                  class="text-blue-500 hover:text-blue-300 dark:text-white"
+                  href="fundamentals/transform-transitions"
+                >
+                  <h2
+                    class="p-2 font-semibold capitalize"
+                  >
+                    tranform & transitions
+                  </h2>
+                </a>
+              </div>
+            </div>
+            <div
+              class="container flex flex-col rounded-lg bg-white p-4 shadow-lg dark:bg-slate-900 dark:shadow-gray-200 md:mx-auto md:my-4 dark:bg-slate-900"
+            >
+              <div
+                class="bg-white dark:bg-slate-900 dark:bg-slate-900"
+              >
+                <a
+                  class="text-blue-500 hover:text-blue-300 dark:text-white"
+                  href="fundamentals/animation"
+                >
+                  <h2
+                    class="p-2 font-semibold capitalize"
+                  >
+                    animation
+                  </h2>
+                </a>
+              </div>
+            </div>
+            <div
+              class="container flex flex-col rounded-lg bg-white p-4 shadow-lg dark:bg-slate-900 dark:shadow-gray-200 md:mx-auto md:my-4 dark:bg-slate-900"
+            >
+              <div
+                class="bg-white dark:bg-slate-900 dark:bg-slate-900"
+              >
+                <a
+                  class="text-blue-500 hover:text-blue-300 dark:text-white"
+                  href="fundamentals/customization-config"
+                >
+                  <h2
+                    class="p-2 font-semibold capitalize"
+                  >
+                    customization & config
+                  </h2>
+                </a>
+              </div>
+            </div>
+            <div
+              class="container flex flex-col rounded-lg bg-white p-4 shadow-lg dark:bg-slate-900 dark:shadow-gray-200 md:mx-auto md:my-4 dark:bg-slate-900"
+            >
+              <div
+                class="bg-white dark:bg-slate-900 dark:bg-slate-900"
+              >
+                <a
+                  class="text-blue-500 hover:text-blue-300 dark:text-white"
+                  href="fundamentals/dark-mode"
+                >
+                  <h2
+                    class="p-2 font-semibold capitalize"
+                  >
+                    dark & mode
+                  </h2>
+                </a>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</DocumentFragment>
+`;
