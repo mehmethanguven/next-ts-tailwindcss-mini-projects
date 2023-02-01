@@ -10,7 +10,7 @@ describe('Home', () => {
     render(<Home />)
 
     const heading = screen.getByRole('heading', {
-      name: /tailwind css sandbox/i,
+      name: /tailwindcss mini projects/i,
     })
 
     expect(heading).toBeInTheDocument()

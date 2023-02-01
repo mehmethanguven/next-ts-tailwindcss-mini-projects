@@ -1,5 +1,6 @@
 import Card from '@/components/Card'
 import { images } from 'data/data'
+import ImageMenu from './image-menu'
 import ImageSearch from './image-search'
 import ImageItem from './ImageItem'
 
@@ -12,6 +13,7 @@ const Page = () => {
         {/* <!-- Card Container --> */}
         <div className="m-3 space-y-10 rounded-3xl bg-white p-6 shadow-2xl dark:bg-slate-900 dark:shadow-white md:px-4 md:pt-10">
           {/* <!-- Menu Container --> */}
+          <ImageMenu />
 
           {/* <!-- Search Container --> */}
           <ImageSearch />

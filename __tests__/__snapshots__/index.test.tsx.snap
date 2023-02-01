@@ -6,21 +6,21 @@ exports[`Home should to match snapshot 1`] = `
     class="bg-gray-50 dark:bg-slate-900"
   >
     <div
-      class="container h-full p-6 mx-auto dark:bg-slate-900"
+      class="container mx-auto h-full p-6 dark:bg-slate-900"
     >
       <div
         class="container flex flex-col rounded-lg bg-white p-4 shadow-lg dark:bg-slate-900 dark:shadow-gray-200 md:mx-auto md:my-4"
       >
         <div
-          class="flex items-center justify-between gap-2 mb-4 bg-white dark:bg-slate-900"
+          class="mb-4 flex items-center justify-between gap-2 bg-white dark:bg-slate-900"
         >
           <div
             class="flex items-center gap-2"
           >
             <h1
-              class="text-xl font-bold capitalize text-blue-500 text-3xl text-center mt-4 dark:text-white dark:bg-slate-900"
+              class="text-xl font-bold capitalize text-slate-500 text-xl text-center mt-4 dark:text-white dark:bg-slate-900 ml-2"
             >
-              Tailwind CSS Sandbox
+              Tailwindcss Mini Projects
             </h1>
           </div>
         </div>
@@ -28,7 +28,7 @@ exports[`Home should to match snapshot 1`] = `
           class="bg-white dark:bg-slate-900"
         >
           <div
-            class="grid grid-cols-1 gap-5 mt-4 dark:bg-slate-900 md:grid-cols-3"
+            class="mt-4 grid grid-cols-1 gap-5 dark:bg-slate-900 md:grid-cols-3"
           >
             <div
               class="container flex flex-col rounded-lg bg-white p-4 shadow-lg dark:bg-slate-900 dark:shadow-gray-200 md:mx-auto md:my-4 dark:bg-slate-900"
@@ -37,13 +37,13 @@ exports[`Home should to match snapshot 1`] = `
                 class="bg-white dark:bg-slate-900 dark:bg-slate-900"
               >
                 <a
-                  class="text-blue-500 hover:text-blue-300 dark:text-white"
-                  href="fundamentals/alert"
+                  class="text-slate-700 hover:text-slate-400 dark:text-white"
+                  href="email-subscribe"
                 >
                   <h2
-                    class="p-2 font-semibold capitalize"
+                    class="p-2 font-semibold capitalize dark:hover:text-slate-400"
                   >
-                    utility first example
+                    email subscribe
                   </h2>
                 </a>
               </div>
@@ -55,13 +55,13 @@ exports[`Home should to match snapshot 1`] = `
                 class="bg-white dark:bg-slate-900 dark:bg-slate-900"
               >
                 <a
-                  class="text-blue-500 hover:text-blue-300 dark:text-white"
-                  href="fundamentals/colors"
+                  class="text-slate-700 hover:text-slate-400 dark:text-white"
+                  href="pricing-card"
                 >
                   <h2
-                    class="p-2 font-semibold capitalize"
+                    class="p-2 font-semibold capitalize dark:hover:text-slate-400"
                   >
-                    colors
+                    pricing card
                   </h2>
                 </a>
               </div>
@@ -73,13 +73,13 @@ exports[`Home should to match snapshot 1`] = `
                 class="bg-white dark:bg-slate-900 dark:bg-slate-900"
               >
                 <a
-                  class="text-blue-500 hover:text-blue-300 dark:text-white"
-                  href="fundamentals/container-spacing"
+                  class="text-slate-700 hover:text-slate-400 dark:text-white"
+                  href="product-modal"
                 >
                   <h2
-                    class="p-2 font-semibold capitalize"
+                    class="p-2 font-semibold capitalize dark:hover:text-slate-400"
                   >
-                    container & spacing
+                    product modal
                   </h2>
                 </a>
               </div>
@@ -91,13 +91,13 @@ exports[`Home should to match snapshot 1`] = `
                 class="bg-white dark:bg-slate-900 dark:bg-slate-900"
               >
                 <a
-                  class="text-blue-500 hover:text-blue-300 dark:text-white"
-                  href="fundamentals/typography"
+                  class="text-slate-700 hover:text-slate-400 dark:text-white"
+                  href="login-modal"
                 >
                   <h2
-                    class="p-2 font-semibold capitalize"
+                    class="p-2 font-semibold capitalize dark:hover:text-slate-400"
                   >
-                    typography
+                    login modal
                   </h2>
                 </a>
               </div>
@@ -109,13 +109,13 @@ exports[`Home should to match snapshot 1`] = `
                 class="bg-white dark:bg-slate-900 dark:bg-slate-900"
               >
                 <a
-                  class="text-blue-500 hover:text-blue-300 dark:text-white"
-                  href="fundamentals/sizing"
+                  class="text-slate-700 hover:text-slate-400 dark:text-white"
+                  href="image-gallery"
                 >
                   <h2
-                    class="p-2 font-semibold capitalize"
+                    class="p-2 font-semibold capitalize dark:hover:text-slate-400"
                   >
-                    sizing
+                    image gallery
                   </h2>
                 </a>
               </div>
@@ -127,229 +127,13 @@ exports[`Home should to match snapshot 1`] = `
                 class="bg-white dark:bg-slate-900 dark:bg-slate-900"
               >
                 <a
-                  class="text-blue-500 hover:text-blue-300 dark:text-white"
-                  href="fundamentals/layout-position"
+                  class="text-slate-700 hover:text-slate-400 dark:text-white"
+                  href="image-gallery/IndexWithHeaderMenu"
                 >
                   <h2
-                    class="p-2 font-semibold capitalize"
+                    class="p-2 font-semibold capitalize dark:hover:text-slate-400"
                   >
-                    layout & position
-                  </h2>
-                </a>
-              </div>
-            </div>
-            <div
-              class="container flex flex-col rounded-lg bg-white p-4 shadow-lg dark:bg-slate-900 dark:shadow-gray-200 md:mx-auto md:my-4 dark:bg-slate-900"
-            >
-              <div
-                class="bg-white dark:bg-slate-900 dark:bg-slate-900"
-              >
-                <a
-                  class="text-blue-500 hover:text-blue-300 dark:text-white"
-                  href="fundamentals/backgrounds-shadows"
-                >
-                  <h2
-                    class="p-2 font-semibold capitalize"
-                  >
-                    backgrounds & shadows
-                  </h2>
-                </a>
-              </div>
-            </div>
-            <div
-              class="container flex flex-col rounded-lg bg-white p-4 shadow-lg dark:bg-slate-900 dark:shadow-gray-200 md:mx-auto md:my-4 dark:bg-slate-900"
-            >
-              <div
-                class="bg-white dark:bg-slate-900 dark:bg-slate-900"
-              >
-                <a
-                  class="text-blue-500 hover:text-blue-300 dark:text-white"
-                  href="fundamentals/borders"
-                >
-                  <h2
-                    class="p-2 font-semibold capitalize"
-                  >
-                    borders & border radius
-                  </h2>
-                </a>
-              </div>
-            </div>
-            <div
-              class="container flex flex-col rounded-lg bg-white p-4 shadow-lg dark:bg-slate-900 dark:shadow-gray-200 md:mx-auto md:my-4 dark:bg-slate-900"
-            >
-              <div
-                class="bg-white dark:bg-slate-900 dark:bg-slate-900"
-              >
-                <a
-                  class="text-blue-500 hover:text-blue-300 dark:text-white"
-                  href="fundamentals/filters"
-                >
-                  <h2
-                    class="p-2 font-semibold capitalize"
-                  >
-                    filters
-                  </h2>
-                </a>
-              </div>
-            </div>
-            <div
-              class="container flex flex-col rounded-lg bg-white p-4 shadow-lg dark:bg-slate-900 dark:shadow-gray-200 md:mx-auto md:my-4 dark:bg-slate-900"
-            >
-              <div
-                class="bg-white dark:bg-slate-900 dark:bg-slate-900"
-              >
-                <a
-                  class="text-blue-500 hover:text-blue-300 dark:text-white"
-                  href="fundamentals/interactivity"
-                >
-                  <h2
-                    class="p-2 font-semibold capitalize"
-                  >
-                    interactivity
-                  </h2>
-                </a>
-              </div>
-            </div>
-            <div
-              class="container flex flex-col rounded-lg bg-white p-4 shadow-lg dark:bg-slate-900 dark:shadow-gray-200 md:mx-auto md:my-4 dark:bg-slate-900"
-            >
-              <div
-                class="bg-white dark:bg-slate-900 dark:bg-slate-900"
-              >
-                <a
-                  class="text-blue-500 hover:text-blue-300 dark:text-white"
-                  href="fundamentals/breakpoints"
-                >
-                  <h2
-                    class="p-2 font-semibold capitalize"
-                  >
-                    breakpoints
-                  </h2>
-                </a>
-              </div>
-            </div>
-            <div
-              class="container flex flex-col rounded-lg bg-white p-4 shadow-lg dark:bg-slate-900 dark:shadow-gray-200 md:mx-auto md:my-4 dark:bg-slate-900"
-            >
-              <div
-                class="bg-white dark:bg-slate-900 dark:bg-slate-900"
-              >
-                <a
-                  class="text-blue-500 hover:text-blue-300 dark:text-white"
-                  href="fundamentals/columns"
-                >
-                  <h2
-                    class="p-2 font-semibold capitalize"
-                  >
-                    column layouts
-                  </h2>
-                </a>
-              </div>
-            </div>
-            <div
-              class="container flex flex-col rounded-lg bg-white p-4 shadow-lg dark:bg-slate-900 dark:shadow-gray-200 md:mx-auto md:my-4 dark:bg-slate-900"
-            >
-              <div
-                class="bg-white dark:bg-slate-900 dark:bg-slate-900"
-              >
-                <a
-                  class="text-blue-500 hover:text-blue-300 dark:text-white"
-                  href="fundamentals/flexbox"
-                >
-                  <h2
-                    class="p-2 font-semibold capitalize"
-                  >
-                    flexbox
-                  </h2>
-                </a>
-              </div>
-            </div>
-            <div
-              class="container flex flex-col rounded-lg bg-white p-4 shadow-lg dark:bg-slate-900 dark:shadow-gray-200 md:mx-auto md:my-4 dark:bg-slate-900"
-            >
-              <div
-                class="bg-white dark:bg-slate-900 dark:bg-slate-900"
-              >
-                <a
-                  class="text-blue-500 hover:text-blue-300 dark:text-white"
-                  href="fundamentals/grid"
-                >
-                  <h2
-                    class="p-2 font-semibold capitalize"
-                  >
-                    grid
-                  </h2>
-                </a>
-              </div>
-            </div>
-            <div
-              class="container flex flex-col rounded-lg bg-white p-4 shadow-lg dark:bg-slate-900 dark:shadow-gray-200 md:mx-auto md:my-4 dark:bg-slate-900"
-            >
-              <div
-                class="bg-white dark:bg-slate-900 dark:bg-slate-900"
-              >
-                <a
-                  class="text-blue-500 hover:text-blue-300 dark:text-white"
-                  href="fundamentals/transform-transitions"
-                >
-                  <h2
-                    class="p-2 font-semibold capitalize"
-                  >
-                    tranform & transitions
-                  </h2>
-                </a>
-              </div>
-            </div>
-            <div
-              class="container flex flex-col rounded-lg bg-white p-4 shadow-lg dark:bg-slate-900 dark:shadow-gray-200 md:mx-auto md:my-4 dark:bg-slate-900"
-            >
-              <div
-                class="bg-white dark:bg-slate-900 dark:bg-slate-900"
-              >
-                <a
-                  class="text-blue-500 hover:text-blue-300 dark:text-white"
-                  href="fundamentals/animation"
-                >
-                  <h2
-                    class="p-2 font-semibold capitalize"
-                  >
-                    animation
-                  </h2>
-                </a>
-              </div>
-            </div>
-            <div
-              class="container flex flex-col rounded-lg bg-white p-4 shadow-lg dark:bg-slate-900 dark:shadow-gray-200 md:mx-auto md:my-4 dark:bg-slate-900"
-            >
-              <div
-                class="bg-white dark:bg-slate-900 dark:bg-slate-900"
-              >
-                <a
-                  class="text-blue-500 hover:text-blue-300 dark:text-white"
-                  href="fundamentals/customization-config"
-                >
-                  <h2
-                    class="p-2 font-semibold capitalize"
-                  >
-                    customization & config
-                  </h2>
-                </a>
-              </div>
-            </div>
-            <div
-              class="container flex flex-col rounded-lg bg-white p-4 shadow-lg dark:bg-slate-900 dark:shadow-gray-200 md:mx-auto md:my-4 dark:bg-slate-900"
-            >
-              <div
-                class="bg-white dark:bg-slate-900 dark:bg-slate-900"
-              >
-                <a
-                  class="text-blue-500 hover:text-blue-300 dark:text-white"
-                  href="fundamentals/dark-mode"
-                >
-                  <h2
-                    class="p-2 font-semibold capitalize"
-                  >
-                    dark & mode
+                    image gallery with header menu
                   </h2>
                 </a>
               </div>

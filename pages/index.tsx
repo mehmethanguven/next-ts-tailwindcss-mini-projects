@@ -29,6 +29,10 @@ const lists: IListItem[] = [
     title: 'image gallery',
     href: 'image-gallery',
   },
+  {
+    title: 'image gallery with header menu',
+    href: 'image-gallery/IndexWithHeaderMenu',
+  },
 ]
 
 const Page = () => {

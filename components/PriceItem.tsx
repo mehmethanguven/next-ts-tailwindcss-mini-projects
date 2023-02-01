@@ -18,14 +18,14 @@ export const PriceItem = ({
       )}
     >
       {/* Upper container */}
-      <div className="p-8 mx-3 mt-3 bg-white rounded-t-xl dark:bg-slate-800">
+      <div className="mx-3 mt-3 rounded-t-xl bg-white p-8 dark:bg-slate-800">
         <div className="text-center uppercase">{title}</div>
-        <h2 className="mt-10 font-serif text-5xl text-center">{quota}</h2>
+        <h2 className="mt-10 text-center font-serif text-5xl">{quota}</h2>
         <h3 className="mt-2 text-center">${monthlyPrice}/Month</h3>
         <div className="flex justify-center">
           <a
             href="#"
-            className="inline-block px-10 py-3 my-6 text-center capitalize duration-200 border rounded-lg border-violet-600 hover:border-violet-800 hover:bg-violet-800 "
+            className="my-6 inline-block rounded-lg border border-violet-600 px-10 py-3 text-center capitalize duration-200 hover:border-violet-800 hover:bg-violet-800 "
           >
             {buttonTitle}
           </a>
@@ -34,12 +34,12 @@ export const PriceItem = ({
       {/* border */}
       <div className="border-t border-slate-700"></div>
       {/* lower container */}
-      <div className="p-8 mx-3 mb-3 bg-white rounded-b-xl dark:bg-slate-800">
+      <div className="mx-3 mb-3 rounded-b-xl bg-white p-8 dark:bg-slate-800">
         <div className="flex flex-col space-y-2 ">
           {(options || []).map((option, id) => (
             <div key={id} className="flex justify-center">
               <svg
-                className="w-5 h-5"
+                className="h-5 w-5"
                 viewBox="0 0 24 24"
                 strokeWidth="2"
                 stroke="currentColor"
