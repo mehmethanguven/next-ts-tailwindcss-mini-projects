@@ -8,10 +8,12 @@ This is a Next.js Tailwindcss Mini Projects (Next.js - Typescript - Jest - Cypre
 
 <a href="https://next-ts-tailwindcss-mini-projects.vercel.app/" target="_blank">Live Preview</a>
 
-## Screenshots
+## Some Screenshots
 
-<img src="public/images/fp1.png" alt="home1" style="height: 400px; width:800px; margin: 10px;"/>
-<img src="public/images/fp1-dark.png" alt="home1" style="height: 400px; width:800px; margin: 10px;"/>
+<img src="public/images/fp1.png" alt="frontpage-light" style="height: 400px; width:800px; margin: 10px;"/>
+<img src="public/images/fp1-dark.png" alt="frontpage-dark" style="height: 400px; width:800px; margin: 10px;"/>
+<img src="public/images/pm.png" alt="product modal light" style="height: 400px; width:800px; margin: 10px;"/>
+<img src="public/images/pm-dark.png" alt="product modal dark" style="height: 400px; width:800px; margin: 10px;"/>
 
 ## Getting Started
 
