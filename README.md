@@ -12,8 +12,8 @@ This is a Next.js Tailwindcss Mini Projects (Next.js - Typescript - Jest - Cypre
 
 <img src="public/images/fp1.png" alt="frontpage-light" style="height: 400px; width:800px; margin: 10px;"/>
 <img src="public/images/fp1-dark.png" alt="frontpage-dark" style="height: 400px; width:800px; margin: 10px;"/>
-<img src="public/images/pm.png" alt="product modal light" style="height: 400px; width:800px; margin: 10px;"/>
-<img src="public/images/pm-dark.png" alt="product modal dark" style="height: 400px; width:800px; margin: 10px;"/>
+<img src="public/images/pm.png" alt="product modal light" style="height: 600px; width:800px; margin: 10px;"/>
+<img src="public/images/pm-dark.png" alt="product modal dark" style="height: 600px; width:800px; margin: 10px;"/>
 
 ## Getting Started
 
