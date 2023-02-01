@@ -8,6 +8,10 @@ This is a Next.js Tailwindcss Mini Projects (Next.js - Typescript - Jest - Cypre
 
 <a href="https://next-ts-tailwindcss-mini-projects.vercel.app/" target="_blank">Live Preview</a>
 
+## Screenshots
+
+<img src="public/images/fp1.png" alt="home1" style="height: 400px; width:400px; margin: 10px;"/>
+
 ## Getting Started
 
 Install, run and test the development server:
