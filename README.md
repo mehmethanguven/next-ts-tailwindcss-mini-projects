@@ -10,7 +10,8 @@ This is a Next.js Tailwindcss Mini Projects (Next.js - Typescript - Jest - Cypre
 
 ## Screenshots
 
-<img src="public/images/fp1.png" alt="home1" style="height: 400px; width:400px; margin: 10px;"/>
+<img src="public/images/fp1.png" alt="home1" style="height: 400px; width:800px; margin: 10px;"/>
+<img src="public/images/fp1-dark.png" alt="home1" style="height: 400px; width:800px; margin: 10px;"/>
 
 ## Getting Started
 
