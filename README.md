@@ -5,6 +5,8 @@ This is a Next.js Tailwindcss Mini Projects (Next.js - Typescript - Jest - Cypre
 Mehmethan Guven
 <br/>
 <a href='mailto:mehmethanguven@gmail.com<'>mehmethanguven@gmail.com</a>
+<br/>
+Hire me!
 
 ## Reference
 
